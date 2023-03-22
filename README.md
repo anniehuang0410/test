@@ -3,7 +3,7 @@ A simple webpage written in Express.js on Node.js.
 The webpage only shows the list of restaurants.
 
 ## Views
-![index page] (https://i.imgur.com/jUpm1Wd.png)
+![index page](https://github.com/anniehuang0410/restaurant-list/blob/main/public/img/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202023-03-22%20%E4%B8%8B%E5%8D%884.24.41.png)
 
 ## Features
 + Click the name/image to show more details about the restaurant
@@ -36,4 +36,4 @@ The Express server is running on http://localhost:3000
 ```
 
 ## Contributor
-[Annie Huang] (https://github.com/anniehuang0410)
+[Annie Huang](https://github.com/anniehuang0410)
